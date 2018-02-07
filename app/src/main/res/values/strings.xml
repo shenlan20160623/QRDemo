@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRDemo</string>
+    <string name="scan_text">将二维码放入框内, 系统自动扫描</string>
+    <string name="scan_title">二维码扫描</string>
+    <string name="btn_back">返回</string>
+    <string name="scan_title_text">扫一扫</string>
+    <string name="scan_tip_text">将二维码放入框内,即可实现自动扫描</string>
+
+</resources>
